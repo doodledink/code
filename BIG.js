@@ -1,12 +1,12 @@
 //temporary
-let num1 = 1;
+let num1 = 69;
 
 //constant
-const num2 = 2;
+const num2 = 122;
 
-let num3 = 3;
+let num3 = 333;
 
-const num4 = 4;
+const num4 = 666;
 
 /*
 console.log(num1 + num3);
