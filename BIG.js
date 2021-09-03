@@ -1,8 +1,8 @@
 //temporary
-let num1 = 69;
+let num1 = 1;
 
 //constant
-const num2 = 122;
+const num2 = 2;
 
 let num3 = 333;
 
